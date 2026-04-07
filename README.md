@@ -2,7 +2,7 @@
 Interactive Excel dashboard analyzing sales performance across products, sales representatives, cities, and monthly trends with business insights and recommendations.
 
 #  Project Overview
-This project was assigned as part of TS Academy's Excel Course, under the instruction of Mr. Ezekiel Sutor. It explores the sales performance of a company over 5 months (January – May 2025) across 4 cities, 10 products, 3 product categories and 6 sales representatives.
+This project was assigned as part of TS Academy's Excel Course, under the instruction of Mr. Ezekiel Aleke. It explores the sales performance of a company over 5 months (January – May 2025) across 4 cities, 10 products, 3 product categories and 6 sales representatives.
 
 **Tool Used:**  Microsoft Excel 
 
@@ -55,11 +55,11 @@ Lagos recorded the highest COGS at $493.81M, followed by Kano ($486.79M), Port H
 
  
 ## Recommendations
-Diversify product focus — reduce over-reliance on Laptop A13 by investing in marketing and promotions for other products
-Replicate top performer strategies — study Peter's sales approach and document it for team-wide coaching
-Introduce performance incentives — reward-based programs can drive motivation across the sales team
-Investigate data completeness — ensure May data is fully captured before drawing month-on-month conclusions
-Monitor regional balance — the even COGS distribution across cities is healthy; maintain this consistency going forward
+— Diversify product focus, reduce over-reliance on Laptop A13 by investing in marketing and promotions for other products
+— Replicate top performer strategies, study Peter's sales approach and document it for team-wide coaching
+— Introduce performance incentives — reward-based programs can drive motivation across the sales team
+— Investigate data completeness — ensure May data is fully captured before drawing month-on-month conclusions
+— Monitor regional balance, the even COGS distribution across cities is healthy; maintain this consistency going forward
 
 
 
