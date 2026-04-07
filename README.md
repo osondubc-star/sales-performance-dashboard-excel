@@ -33,7 +33,7 @@ This project was assigned as part of TS Academy's Excel Course, under the instru
 
 **Total Transactions**:  2,098
 
-![sales-performance-dashboard-excel](Sales%20KPI.png)
+![sales-performance-dashboard-excel](KpI.png)
 
 
 
