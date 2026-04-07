@@ -55,10 +55,15 @@ Lagos recorded the highest COGS at $493.81M, followed by Kano ($486.79M), Port H
 
  
 ## Recommendations
+
 — Diversify product focus, reduce over-reliance on Laptop A13 by investing in marketing and promotions for other products
+
 — Replicate top performer strategies, study Peter's sales approach and document it for team-wide coaching
+
 — Introduce performance incentives — reward-based programs can drive motivation across the sales team
+
 — Investigate data completeness — ensure May data is fully captured before drawing month-on-month conclusions
+
 — Monitor regional balance, the even COGS distribution across cities is healthy; maintain this consistency going forward
 
 
