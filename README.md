@@ -18,16 +18,23 @@ This project was assigned as part of TS Academy's Excel Course, under the instru
 7.  Icon navigation panel
 8.  Insights & Recommendations sheet
 9.  KPI Cards Close-up
-![sales-performance-dashboard-excel](Sales Dashboard.png)
+
+! [sales-performance-dashboard-excel](Sales Dashboard.png)
 
 
 **Key KPIs**
+
 **Total Revenu**: $2,328.37M
+
 **Total COGS**:   $1,862.70M
+
 **Total Profit**: $465.67M
+
 **Profit Margin**:  20%
+
 **Total Transactions**:  2,098
-![sales-performance-dashboard-excel](Sales KpI.png)
+
+! [sales-performance-dashboard-excel](Sales KpI.png)
 
 
 
